@@ -15,7 +15,7 @@ When I'm not making games, I'm usually playing them! I'm a huge gaming enthusias
 
 #### 📬 Let's Connect
 *  [Play my prototypes on Itch.io](https://kozukii.itch.io/)
-*  [Connect with me on LinkedIn](https://www.linkedin.com/in/aymen-embarki-9674953b1)
+*  [Connect with me on LinkedIn](https://www.linkedin.com/in/aymen-embarki/)
 
 ---
 *Feel free to explore my source code in the repositories below!*
